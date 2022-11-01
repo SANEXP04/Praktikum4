@@ -80,10 +80,9 @@ print('{0:>3} {1:>16}'.format(10, 10**10)
  ![Screenshot (63)](https://user-images.githubusercontent.com/115678171/198816032-fc8004ba-67c8-4506-954d-d7e77deac44d.png)
  ![Screenshot (64)](https://user-images.githubusercontent.com/115678171/198816037-2a855d15-28af-491f-91cd-fa16e1744518.png)
  
- *Hasil run*
- ![Screenshot (61)](https://user-images.githubusercontent.com/115678171/198816131-06a6ba95-c712-4855-8efe-264562e6b029.png)
-![Screenshot (62)](https://user-images.githubusercontent.com/115678171/198816134-bc4f5b6e-d80c-4fc2-82e7-46c908987be6.png)
-
+ ![Screenshot (27)](https://user-images.githubusercontent.com/115678077/199277723-8f124595-e170-4803-8d20-995bd96149e4.png)
+![Screenshot (28)](https://user-images.githubusercontent.com/115678077/199277907-a9c991a7-5704-4d10-8808-c896028e1cd4.png)
+kami
 # Latihan 2 
 1. Anda masukan code latihan 2 anda lalu Run 
 ```python
