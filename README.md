@@ -1,6 +1,7 @@
 Nama : Ihsan Hadimulya
 
 Nim : 312210047
+
 Kelas : TI.22.A1
 
 # Latihan Python di Pycharm
